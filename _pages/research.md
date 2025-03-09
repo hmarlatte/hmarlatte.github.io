@@ -21,4 +21,3 @@ I am interested in the individual differences that lead to mental simulation def
 
 **Mixed method approaches to narrative analysis**\
 -To provide a more comprehensive understanding of particpants' internal experience, I utilize behavioural coding (e.g., autobiographical interview), computational word analysis softwares (e.g., LIWC) and qualitative techniques (e.g., thematic analysis) - at times, simultaneously.
-
