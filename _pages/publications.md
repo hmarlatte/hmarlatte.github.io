@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find me on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
 {% endif %}
 
-_**Publications**_
+**Publications**
 
 * **Marlatte, H.,** Ryan, J.D., & Gilboa, A. Scene construction deficits in adolescent post-traumatic stress disorder are in sensory, rather than spatial, imagery. Submitted to Frontiers in psychology.
 
@@ -23,16 +23,16 @@ _**Publications**_
 
 * Gilboa, A., & **Marlatte, H.** (2017). Neurobiology of schemas and schema-mediated memory. _Trends in cognitive sciences, 21_ (8), 618-631.
 
-_**Peer-reviewed conference proceedings**_i
+**Peer-reviewed conference proceedings**
 
-**Marlatte, H.,** Meltzer, J., Binns, M., & Gilboa, A. (2020). Individual differences in prior knowledge application during word learning: A mechanistic Bayesian model. _Neurobiology of Speech and Language, 22-24._
+* **Marlatte, H.,** Meltzer, J., Binns, M., & Gilboa, A. (2020). Individual differences in prior knowledge application during word learning: A mechanistic Bayesian model. _Neurobiology of Speech and Language, 22-24._
 
-_**Publications in preparation**_
+**Publications in preparation**
 
-**Marlatte, H.,** Ryan, J.D., & Gilboa, A. Lateral eye-movements preferentially increase fixation rate during scene construction for those with post-traumatic stress disorder.
+* **Marlatte, H.,** Ryan, J.D., & Gilboa, A. Lateral eye-movements preferentially increase fixation rate during scene construction for those with post-traumatic stress disorder.
 
-**Marlatte, H.,** Ryan, J.D., & Gilboa, A. Adolescents with post-traumatic stress disorder imagine scenes as action sequences rather than sensory events.
+* **Marlatte, H.,** Ryan, J.D., & Gilboa, A. Adolescents with post-traumatic stress disorder imagine scenes as action sequences rather than sensory events.
 
-**Marlatte, H.,** Binns, M., & Gilboa, A. Cross-situational integration is impaired in a patient with bilateral fornix damage.
+* **Marlatte, H.,** Binns, M., & Gilboa, A. Cross-situational integration is impaired in a patient with bilateral fornix damage.
 
 li {list-style-type: none;}
