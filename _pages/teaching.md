@@ -7,9 +7,9 @@ author_profile: true
 **Course Instructor**\
 _University of Toronto_
 
-|**PSY493: Cognitive Neuroscience**\
-|*Winter 2025, Fall 2024, Winter 2024*\
-|This capstone survey course explores research on how the mind arises from the brain, covering how varying levels of neural activity — from cellular mechanisms to functional networks — support different cognitive processes. Topics include sensory perception, attention, memory, cognitive control, and applications such as psychopathology and disorders of consciousness. Secondary objectives include understanding current cognitive neuroscience methods and engaging critically with primary research in the field. 
+$\quad$**PSY493: Cognitive Neuroscience**\
+$\quad$*Winter 2025, Fall 2024, Winter 2024*\
+$\quad$This capstone survey course explores research on how the mind arises from the brain, covering how varying levels of neural activity — from cellular mechanisms to functional networks — support different cognitive processes. Topics include sensory perception, attention, memory, cognitive control, and applications such as psychopathology and disorders of consciousness. Secondary objectives include understanding current cognitive neuroscience methods and engaging critically with primary research in the field. 
 
 
 |**PSY342: Cogniton and Psychopathology**\
