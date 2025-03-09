@@ -18,7 +18,7 @@ This course explores theoretical accounts of psychiatric and neurological disord
 
 ---
 
-**Teaching Assistant** (selected \
+**Teaching Assistant** (selected)\
 *University of Toronto*
 
 **PSY2002: Graduate Statistics II - Multivariate Methods and Data Science**\
