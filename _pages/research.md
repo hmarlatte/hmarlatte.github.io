@@ -20,4 +20,4 @@ I am interested in the individual differences that lead to mental simulation def
 -disturbances in detail generation of mental simulations (i.e. the number of details) and their spatial coherence (i.e. how fragmented it is) may be separable, albeit interdependent, aspects of mental simulation. Expounding the functional neural correlates of these two subprocesses can inform theories of hippocampal function and neurocognitive models of PTSD.
 
 **Mixed method approaches to narrative analysis**\
--To provide a more comprehensive understanding of particpants' internal experience, I utilize behavioural coding (e.g., autobiographical interview), computational word analysis softwares (e.g., LIWC) and qualitative techniques (e.g., thematic analysis) - at times, simultaneously.
+-interventions should be grounded in the experiences of those who will be ultimately using them. To provide a comprehensive understanding of particpants' internal experience, I utilize behavioural coding (e.g., autobiographical interview), computational word analysis softwares (e.g., LIWC) and qualitative techniques (e.g., thematic analysis) - at times, simultaneously.
