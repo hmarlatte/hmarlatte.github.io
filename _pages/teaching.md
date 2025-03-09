@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-**Course Instructor**
+**Course Instructor**\
 *University of Toronto*
 
 PSY493: Cognitive Neuroscience
