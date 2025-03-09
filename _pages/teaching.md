@@ -19,30 +19,30 @@ University of Toronto
 ---
 
 **Teaching Assistant** (selected)\
-_University of Toronto_
+University of Toronto
 
-|**PSY2002: Graduate Statistics II - Multivariate Methods and Data Science**\
-|*Winter 2022, Winter 2024*\
-|This course focuses on multivariate techniques commonly used in cognitive neuroscience based on linear algebra. Topics include dimension reduction techniques (e.g., PCA, PLS), clustering, linear discriminant analysis, as well as bootstrapping, cross-validation, and permutationt testing.
+>**PSY2002: Graduate Statistics II - Multivariate Methods and Data Science**\
+>*Winter 2022, Winter 2024*\
+>This course focuses on multivariate techniques commonly used in cognitive neuroscience based on linear algebra. Topics include dimension reduction techniques (e.g., PCA, PLS), clustering, linear discriminant analysis, as well as bootstrapping, cross-validation, and permutationt testing.
 
-|**PSY2002: Graduate Statistics II - Advanced Statistics**\
-|*Winter 2023*\
-|This course provides a survey of advanced statistics, including non-gaussian statistics, mixed and process models, time-based analyses, and Bayesian hypothesis testing.
+>**PSY2002: Graduate Statistics II - Advanced Statistics**\
+>*Winter 2023*\
+>This course provides a survey of advanced statistics, including non-gaussian statistics, mixed and process models, time-based analyses, and Bayesian hypothesis testing.
 
-|**PSY2001: Graduate Statistics I - The General Linear Model**\
-|*Fall 2022*\
-|This course provides a foundational conceptual and applied understanding of the general linear model for psychology researchers.
+>**PSY2001: Graduate Statistics I - The General Linear Model**\
+>*Fall 2022*\
+>This course provides a foundational conceptual and applied understanding of the general linear model for psychology researchers.
 
-|**PSY202: Statistics II**\
-|*Winter 2021*\
-|This course provides an understanding of the basic concepts and logic underlying the use of statistics in psychological research. Topics include factorial ANOVA, multiple regression, power analyses and post-hoc testing.
+>**PSY202: Statistics II**\
+>*Winter 2021*\
+>This course provides an understanding of the basic concepts and logic underlying the use of statistics in psychological research. Topics include factorial ANOVA, multiple regression, power analyses and post-hoc testing.
 
-|**PSY201: Statistics I**\
-|*Fall 2019, Summer 2017*\
-|This course provides a basic foundation of scientific literacy. Topics include probability, correlation, t-tests, ANOVA, and linear regression.
+>**PSY201: Statistics I**\
+>*Fall 2019, Summer 2017*\
+>This course provides a basic foundation of scientific literacy. Topics include probability, correlation, t-tests, ANOVA, and linear regression.
 
 --- 
 
 **Professional Development**\
-_2023-2025_
+*2023-2025*\
 I have completed the [Advanced Undergraduate Teaching Program certificate](http://tatp.utoronto.ca/certificate-program/autp-certificate/) from the University of Toronto. Through this program, I gained skills in structuring courses, lesson planning, and effective teaching strategies, which I continue to apply in my classes.
