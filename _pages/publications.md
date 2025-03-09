@@ -15,7 +15,7 @@ author_profile: true
 
 >**Marlatte, H.,** Di Nota, P., & Andersen, J.P. (2025). Physiological stress differentially impacts cognitive performance during and memory following simulated police encounters. Frontiers in psychology, _in press._
 
->Mitchnick, K.A., **Marlatte, H.,** Belchev, Z., Gao, F., & Rosenbaum, R.S. (2024). Differential contributions of the hippocampal dentate gyrus and CA1 subfield to mnemonic discrimination. _Hippocampus, 34,_ (6), 278-283.
+>Mitchnick, K.A., **Marlatte, H.,** Belchev, Z., Gao, F., & Rosenbaum, R.S. (2024). Differential contributions of the hippocampal dentate gyrus and CA1 subfield to mnemonic discrimination. _Hippocampus, 34_ (6), 278-283.
 
 >**Marlatte, H.,** Belchev, Z., Fraser, M., & Gilboa, A. (2024). The effect of hippocampal subfield damage on rapid temporal integration through statistical learning and associative inference. _Neuropsychologia, 193,_ 108755.
 
