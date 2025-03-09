@@ -22,10 +22,16 @@ This course explores theoretical accounts of psychiatric and neurological disord
 *University of Toronto*
 
 PSY2002: Graduate Statistics II - Multivariate Methods and Data Science\
-  *University of Toronto / Winter 2022, Winter 2024* 
+  *Winter 2022, Winter 2024* 
 
 PSY2002: Graduate Statistics II - Advanced Statistics\
-  *University of Toronto / Winter 2023*
+  *Winter 2023*
 
 PSY2001: Graduate Statistics I - The General Linear Model\
-  *University of Toronto / Fall 2022*
+  *Fall 2022*
+
+PSY202: Statistics II
+  *Winter 2021*
+
+PSY201: Statistics I
+  *Fall 2019, Summer 2017*
