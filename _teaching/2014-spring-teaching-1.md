@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "PSY493 Cognitive Neuroscience"
 collection: teaching
-type: "Undergraduate course"
+type: "Course Instructor"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Toronto"
+date: 2024, 2025
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This capstone survey course explores research on how the mind arises from the brain, covering how varying levels of neural activity — from cellular mechanisms to functional networks — support cognitive processes like perception, memory, and cognitive control. Secondary objectives included understanding current cognitive neuroscience methods and engaging critically with primary research in the field. 
