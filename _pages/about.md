@@ -13,6 +13,6 @@ My research program focuses on how experiencing trauma and stress in adolescence
 
 During my masters, I conducted basic science research on learning mechanisms in healthy young adults and patients with hippocampal amnesia with [Dr. Asaf Gilboa](https://www.gilboalab.ca).
 
-In addition to my research, I am deeply committed to teaching, particularly in statistical methods and the intersection of cognitive neuroscience and mental health. For example, I have independently designed and developed an undergraduate course on the topic (PSY 342: Cognition and Psychopathology), taught a fourth-year survey course on cognitive neuroscience and its methodologies several times (PSY493: Cognitive Neuroscience), and frequently assisted in teaching both undergraduate and graduate level statistics. 
+In addition to my research, I am deeply committed to teaching, particularly in statistical methods and the intersection of cognitive neuroscience and mental health. For example, I have independently designed and developed an undergraduate course on the topic (PSY 342: Cognition and Psychopathology), taught a fourth-year survey course on cognitive neuroscience and its methodologies several times (PSY493: Cognitive Neuroscience), and frequently assisted in teaching courses in both undergraduate and graduate level statistics. 
 
 In my free time, you can find me baking without a recipe, drying flowers to later arrange, or befriending a tree in a nearby park or ravine. 
