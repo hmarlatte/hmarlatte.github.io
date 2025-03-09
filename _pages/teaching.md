@@ -9,12 +9,12 @@ author_profile: true
 
 **PSY493: Cognitive Neuroscience**\
  *Winter 2025, Fall 2024, Fall 2024*\
-This capstone survey course explores research on how the mind arises from the brain, covering how varying levels of neural activity — from cellular mechanisms to functional networks — support various cognitive processes. Topics include sensory perception, attention, memory, cognitive control, and applications such as psychopathology and disorders of consciousness. Secondary objectives included understanding current cognitive neuroscience methods and engaging critically with primary research in the field. 
+This capstone survey course explores research on how the mind arises from the brain, covering how varying levels of neural activity — from cellular mechanisms to functional networks — support different cognitive processes. Topics include sensory perception, attention, memory, cognitive control, and applications such as psychopathology and disorders of consciousness. Secondary objectives included understanding current cognitive neuroscience methods and engaging critically with primary research in the field. 
 
 
 **PSY342: Cogniton and Psychopathology**\
  *Summer 2024*\
-This course explores theoretical accounts of psychiatric and neurological disorders through the lens of cognitive experimental psychology, including how both traditional and contemporay approaches inform current therapies. A secondary objective included practice in translational scientific communication. I independently designed and developed this course as a special offering within the department, addressing a gap in their clinical course list that had not be offered in 10 years.
+This course explores theoretical accounts of psychiatric and neurological disorders through the lens of cognitive experimental psychology, including how both traditional and contemporay approaches inform current therapies. A secondary objective includes practice in translational scientific communication. I independently designed and developed this course as a special offering within the department, addressing a gap in their clinical course list that had not be offered in 10 years.
 
 ---
 
