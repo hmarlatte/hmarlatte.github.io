@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 **Course Instructor**\
-_University of Toronto_
+University of Toronto
 
 >**PSY493: Cognitive Neuroscience**\
 >*Winter 2025, Fall 2024, Winter 2024*\
