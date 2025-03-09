@@ -31,4 +31,6 @@ author_profile: true
 
 >**Marlatte, H.,** Ryan, J.D., & Gilboa, A. Lateral eye-movements preferentially increase fixation rate during scene construction for those with post-traumatic stress disorder.
 
+>**Marlatte, H.,** Ryan, J.D., & Gilboa, A. Adolescents with post-traumatic stress disorder imagine scenes as action sequences rather than sensory events.
+
 >**Marlatte, H.,** Binns, M., & Gilboa, A. Cross-situational integration is impaired in a patient with bilateral fornix damage.
