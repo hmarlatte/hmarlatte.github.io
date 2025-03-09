@@ -23,9 +23,9 @@ repository               : "hmarlatte/hmarlatte.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hannah Marlatte"
+  name             : "Hannah Marlatte, M.A."
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Cognitive Neuroscience"
+  bio              : "PhD Candidate in Cognitive Neuroscience (expected May 2025)"
   location         : "Toronto, Canada"
   employer         : "University of Toronto"
   uri              : # URL
