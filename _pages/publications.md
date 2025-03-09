@@ -29,6 +29,6 @@ author_profile: true
 
 **Publications in prepation**
 
-Marlatte, H., Ryan, J.D., & Gilboa, A. Lateral eye-movements preferentially increase fixation rate for those with PTSD during scene construction.
+>Marlatte, H., Ryan, J.D., & Gilboa, A. Lateral eye-movements preferentially increase fixation rate for those with PTSD during scene construction.
 
-Marlatte, H., Binns, M., & Gilboa, A. Cross-situational integration is impaired in a patient with bilateral fornix damage.
+>Marlatte, H., Binns, M., & Gilboa, A. Cross-situational integration is impaired in a patient with bilateral fornix damage.
