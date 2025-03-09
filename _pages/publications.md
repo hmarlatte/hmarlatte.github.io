@@ -13,7 +13,7 @@ author_profile: true
 
 * **Marlatte, H.,** Ryan, J.D., & Gilboa, A. Scene construction deficits in adolescent post-traumatic stress disorder are in sensory, rather than spatial, imagery. _Submitted to Frontiers in psychology._
 
-* **Marlatte, H.,** Di Nota, P., & Andersen, J.P. (2025). Physiological stress differentially impacts cognitive performance during and memory following simulated police encounters. _Frontiers in psychology, in press._
+* **Marlatte, H.,** Di Nota, P., & Andersen, J.P. (2025). Physiological stress differentially impacts cognitive performance during and memory following simulated police encounters of individuals in mental health crisis. _Frontiers in psychology, in press._
 
 * Mitchnick, K.A., **Marlatte, H.,** Belchev, Z., Gao, F., & Rosenbaum, R.S. (2024). Differential contributions of the hippocampal dentate gyrus and CA1 subfield to mnemonic discrimination. _Hippocampus, 34_ (6), 278-283.
 
