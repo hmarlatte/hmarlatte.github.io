@@ -43,5 +43,5 @@ University of Toronto
 
 --- 
 
-**Professional Development**\
->I have completed the [Advanced Undergraduate Teaching Program certificate](http://tatp.utoronto.ca/certificate-program/autp-certificate/) from the University of Toronto (2025). Through this program, I gained skills in structuring courses, lesson planning, and effective teaching strategies, which I continue to apply in my classes.
+**Professional Development**
+>I have completed the [Advanced Undergraduate Teaching Program certificate](http://tatp.utoronto.ca/certificate-program/autp-certificate/) from the University of Toronto. Through this program, I gained skills in structuring courses, lesson planning, and effective teaching strategies, which I continue to apply in my classes.
