@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-I have contributed to and helped organize various educational initiatives, aimed at increasing scientific literacy, fostering research skills, and promoting career pathways in psychology and science.
+I have contributed to and coordinated various educational initiatives aimed at increasing scientific literacy, fostering research skills, and promoting career pathways in psychology and science. Here are a few over the recent years:
 
 **Psychology Undergraduate Research Community**\
 _(2022-current)_\
