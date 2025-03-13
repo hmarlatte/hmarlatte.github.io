@@ -15,4 +15,4 @@ During my masters, I conducted basic science research on learning mechanisms in 
 
 In addition to my research, I am deeply committed to teaching, particularly in intersection of cognitive neuroscience and mental health and statistical methods. For example, I have independently designed and developed an undergraduate course on cognitive theories of mental health disorders (PSY 342: Cognition and Psychopathology), taught a fourth-year survey course on cognitive neuroscience and its methodologies several times (PSY493: Cognitive Neuroscience), and frequently assisted in teaching courses in both undergraduate and graduate level statistics. 
 
-In my free time, you can find me baking with or without a recipe, drying flowers to later arrange, or knitting something in a nearby park or ravine. 
+In my free time, you can find me baking with or without a recipe, drying flowers to later arrange, or knitting something in a nearby ravine. 
